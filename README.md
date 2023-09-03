@@ -5,7 +5,7 @@ Bu repo [Kodluyoruz]('http://kodluyoruz.org') Front-End Eğitiminde oluşturduğ
 Öncelikle projeyi clonelayın [clone linki]('https://github.com/cemal42/legendary-octo-garbanzo.git')
 
 ```git
-git clone https://github.com/cemal42/legendary-octo-garbanzo.git
+git clone https://github.com/cemal42/kodluyoruzilkrepo.git
 ```
 
 # Usage
